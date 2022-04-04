@@ -1,0 +1,20 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "web-dev-simplified tutorial project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "razi-webdevsimplified",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^6.2.9"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
